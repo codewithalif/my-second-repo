@@ -3,6 +3,11 @@ body {
 }
 
 
+.background{
+background-image: url('/bacground_Image.jpg');
+}
+
+
 h1{
   text-align: center;
 }
