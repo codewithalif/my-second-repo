@@ -1,6 +1,11 @@
+/* .background{
+background-image: url('./../images/Black_background\ .jpg');
+} */
+
 .background{
-background-image: url('./../images/simple_light_background.jpg');
+  background-color: #575fcf;
 }
+
 u{
   color:yellow;
 
