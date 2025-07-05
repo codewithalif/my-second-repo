@@ -1,0 +1,59 @@
+body {
+    background-image: url('/images/bacground\ image.jpg');
+}
+
+h1{
+  text-align: center;
+}
+
+
+
+
+.one{
+  background-color: aqua;
+  padding: 10px;
+  color: blueviolet;
+  box-shadow: 10px 10px 5px purple;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  width: 70%;
+}
+
+
+.two{
+  background-color: blueviolet;
+  padding: 10px;
+  color: chartreuse;
+  box-shadow: 10px 10px 5px deeppink;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  width: 70%;
+}
+.three{
+  background-color:tomato ;
+  padding: 10px;
+  color: gold;
+  margin-bottom: 25px;
+  box-shadow: 10px 10px 5px green;
+  border-radius: 20px;
+  width: 70%;
+  
+}
+
+#button{
+  background-color: rgb(142, 10, 250);
+  color: chartreuse;
+  font-size: large;
+  border: 5px solid rgb(48, 11, 214);
+  border-radius: 12px;
+  
+}
+
+.button{
+  background-color:rgba(189, 238, 14, 0.822) ;
+  color: rgb(130, 14, 238);
+  font-size: large;
+  border: 5px solid rgba(226, 17, 122, 0.87);
+  border-radius: 12px;
+
+}
