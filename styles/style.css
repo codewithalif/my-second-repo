@@ -1,10 +1,5 @@
-body {
-  background-image: url('/bacground_Image.jpg');
-}
-
-
 .background{
-background-image: url('/bacground_Image.jpg');
+background-image: url('./../bacground_Image.jpg');
 }
 
 
